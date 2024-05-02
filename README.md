@@ -20,10 +20,10 @@ To run a script, simply execute it using Python from the command line or your pr
 ```bash
 python <script_name>.py
 
-**Dependencies**
+** Dependencies **
 These scripts require Python to be installed on your system. They do not have any external dependencies.
-**Contributing**
+** Contributing **
 Contributions to this repository are welcome! If you have any improvements, bug fixes, or additional features to add, feel free to fork this repository, make your changes, and submit a pull request.
 
-**License**
+** License **
 This project is licensed under the MIT License - see the LICENSE file for details.
